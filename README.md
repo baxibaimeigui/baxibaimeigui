@@ -1,8 +1,8 @@
+READ_ME
 HELLO WORLD. IM BAXIBAIMEIGUI.
 IM INTERESTED IN QRCODE.
-IM CURRENTLY LEARNING KEYS.
 
-HOW TO REACH ME <baxibaimeigui@outlook.com>.
+HOW TO REACH ME <baxibaimeigui@outlook.com>
 
 <!---
 baxibaimeigui/baxibaimeigui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
