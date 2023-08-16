@@ -1,8 +1,8 @@
-HELLO WORLD. IM BAXIBAIMEIGUI- 👋 Hi, I’m @baxibaimeigui
-IM INTERESTED IN QRCODE- 👀 I’m interested @ ...
-IM CURRENTLY LEARNING KEYS- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-HOW TO REACH ME <baxibaimeigui@outlook.com>- 📫 How to reach me ...
+HELLO WORLD. IM BAXIBAIMEIGUI
+IM INTERESTED IN QRCODE
+IM CURRENTLY LEARNING KEYS
+
+HOW TO REACH ME <baxibaimeigui@outlook.com>
 
 <!---
 baxibaimeigui/baxibaimeigui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
